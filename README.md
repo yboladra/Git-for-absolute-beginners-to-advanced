@@ -1,4 +1,4 @@
-# Git-for-absolute-beginners-to-advanced
+# Git for absolute beginners to advanced !
 Hey there,
 My name is Hriyen. This repository is dedicated for everyone from absolute beginners to advanced.
 
